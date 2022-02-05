@@ -9,3 +9,4 @@ This "domain reduction algorithim" was presented by Patric Winston his Artificia
 [This lecture is avalible online via MIT OpenCourseWare](https://youtu.be/dARl_gGrS4o)
 
 
+![](https://github.com/mcmoffat/Map-Coloring-Visualization/blob/main/mapColoringDemo.gif)
