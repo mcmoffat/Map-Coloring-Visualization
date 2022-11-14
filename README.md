@@ -8,7 +8,9 @@ region among those concidered no longer has any reminaing color options.
 This "domain reduction algorithim" was presented by Patrick Winston in his Artificial Itelligence course at MIT. 
 [This lecture is avalible online via MIT OpenCourseWare](https://youtu.be/dARl_gGrS4o)
 
+Program needs conciderably more work to approximate that shown in the above lecture. 
+
 
 ![](https://github.com/mcmoffat/Map-Coloring-Visualization/blob/main/mapColoringDemo.gif)
 
-Program needs conciderably more work to approximate that shown in the above lecture. 
+
