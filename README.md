@@ -10,3 +10,5 @@ This "domain reduction algorithim" was presented by Patrick Winston in his Artif
 
 
 ![](https://github.com/mcmoffat/Map-Coloring-Visualization/blob/main/mapColoringDemo.gif)
+
+Program needs conciderably more work to approximate that shown in the above lecture. 
